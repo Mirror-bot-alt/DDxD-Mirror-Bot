@@ -30,7 +30,7 @@ cd DDxD-Mirror-Bot
 ```
 - Install dependencies for running setup scripts:
 ```shell script
-pip3 install -r requirements-cli.txt
+pip3 install -r requirements.txt
 ```
 
 ## Setting up config-sample file
