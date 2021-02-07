@@ -80,10 +80,6 @@ python3 generate_drive_token.py
 
 ## Deploying on Heroku using Termux:
 
-- Run the script to generate token file(token.pickle) for Google Drive:
-```
-python3 generate_drive_token.py
-```
 - Install [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - Login into your heroku account with command:
 ```
